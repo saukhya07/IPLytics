@@ -1,0 +1,59 @@
+venue,matches,average_first_innings_score,average_second_innings_score,highest_score,bat_first_wins,chasing_wins,bat_first_win_percentage,chasing_win_percentage
+Eden Gardens,77,160.18,147.06,232,32,45,41.56,58.44
+Wankhede Stadium,73,166.03,154.38,235,35,37,48.61,51.39
+M Chinnaswamy Stadium,65,168.06,145.52,263,26,36,41.94,58.06
+Feroz Shah Kotla,60,161.63,147.85,231,28,31,47.46,52.54
+"Rajiv Gandhi International Stadium, Uppal",49,156.14,146.98,223,20,28,41.67,58.33
+"MA Chidambaram Stadium, Chepauk",48,166.02,151.85,246,30,17,63.83,36.17
+Sawai Mansingh Stadium,47,157.68,145.81,197,15,32,31.91,68.09
+Dubai International Cricket Stadium,46,163.76,149.09,219,21,22,48.84,51.16
+"Wankhede Stadium, Mumbai",45,177.11,169.27,234,18,27,40.0,60.0
+"Punjab Cricket Association Stadium, Mohali",35,163.29,150.63,240,15,20,42.86,57.14
+Sheikh Zayed Stadium,29,158.86,145.62,206,11,16,40.74,59.26
+"MA Chidambaram Stadium, Chepauk, Chennai",28,164.54,151.57,217,13,14,48.15,51.85
+Sharjah Cricket Stadium,28,159.04,147.5,228,10,18,35.71,64.29
+"Narendra Modi Stadium, Ahmedabad",24,175.75,163.83,233,9,15,37.5,62.5
+Maharashtra Cricket Association Stadium,22,166.41,152.09,211,8,14,36.36,63.64
+"Dr DY Patil Sports Academy, Mumbai",20,170.7,157.95,216,10,10,50.0,50.0
+Dr DY Patil Sports Academy,17,146.65,136.29,190,7,10,41.18,58.82
+"Brabourne Stadium, Mumbai",17,177.41,165.18,217,8,9,47.06,52.94
+Subrata Roy Sahara Stadium,16,149.44,133.56,187,10,6,62.5,37.5
+"Arun Jaitley Stadium, Delhi",16,199.06,181.62,266,9,7,56.25,43.75
+"Eden Gardens, Kolkata",16,195.62,184.69,262,8,8,50.0,50.0
+Rajiv Gandhi International Stadium,15,162.6,146.13,231,8,7,53.33,46.67
+M.Chinnaswamy Stadium,15,173.93,167.87,218,7,7,50.0,50.0
+Kingsmead,15,152.0,138.2,211,9,6,60.0,40.0
+Arun Jaitley Stadium,14,168.29,155.0,219,7,6,53.85,46.15
+"M Chinnaswamy Stadium, Bengaluru",14,196.21,183.93,287,8,6,57.14,42.86
+"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",14,165.43,152.15,235,7,6,53.85,46.15
+"Rajiv Gandhi International Stadium, Uppal, Hyderabad",13,188.38,176.46,277,7,6,53.85,46.15
+"Maharashtra Cricket Association Stadium, Pune",13,171.46,144.54,210,10,3,76.92,23.08
+Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,13,157.46,130.69,206,7,6,53.85,46.15
+"Sardar Patel Stadium, Motera",12,163.17,149.0,201,6,5,54.55,45.45
+SuperSport Park,12,154.83,149.58,189,4,8,33.33,66.67
+"Punjab Cricket Association IS Bindra Stadium, Mohali",11,164.09,158.18,207,5,6,45.45,54.55
+Saurashtra Cricket Association Stadium,10,168.9,162.7,213,3,6,33.33,66.67
+Punjab Cricket Association IS Bindra Stadium,10,175.6,172.0,197,4,6,40.0,60.0
+"Sawai Mansingh Stadium, Jaipur",10,179.5,162.6,217,5,5,50.0,50.0
+Brabourne Stadium,10,180.4,167.7,212,6,4,60.0,40.0
+Holkar Cricket Stadium,9,160.33,158.78,245,1,8,11.11,88.89
+Himachal Pradesh Cricket Association Stadium,9,175.67,146.22,232,5,4,55.56,44.44
+MA Chidambaram Stadium,9,150.56,134.22,205,4,5,44.44,55.56
+"Zayed Cricket Stadium, Abu Dhabi",8,159.0,150.38,235,3,5,37.5,62.5
+New Wanderers Stadium,8,144.0,142.5,166,3,5,37.5,62.5
+Newlands,7,139.43,112.57,184,4,2,66.67,33.33
+St George's Park,7,159.0,131.43,187,3,4,42.86,57.14
+Barabati Stadium,7,167.71,157.71,231,4,3,57.14,42.86
+JSCA International Stadium Complex,7,149.0,144.71,189,2,5,28.57,71.43
+Shaheed Veer Narayan Singh International Stadium,6,146.33,143.83,164,2,4,33.33,66.67
+"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",5,197.8,173.4,257,3,2,60.0,40.0
+"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",5,167.4,167.6,192,2,3,40.0,60.0
+Nehru Stadium,5,146.8,125.8,162,3,2,60.0,40.0
+Green Park,4,161.25,163.25,197,0,4,0.0,100.0
+"Himachal Pradesh Cricket Association Stadium, Dharamsala",4,202.0,176.75,241,3,1,75.0,25.0
+Buffalo Park,3,147.33,119.0,178,2,1,66.67,33.33
+De Beers Diamond Oval,3,158.0,141.0,169,1,2,33.33,66.67
+"Vidarbha Cricket Association Stadium, Jamtha",3,149.33,144.67,159,2,1,66.67,33.33
+"Barsapara Cricket Stadium, Guwahati",3,180.0,159.67,199,2,1,66.67,33.33
+"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2,231.5,168.5,272,2,0,100.0,0.0
+OUTsurance Oval,2,135.0,129.5,150,1,1,50.0,50.0
