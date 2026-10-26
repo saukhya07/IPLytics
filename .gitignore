@@ -49,4 +49,3 @@ frontend/dist/
 
 # Generated ML datasets and temporary outputs
 data/ml/
-data/processed/
